@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	background-color: #e9e9e9;
+}
+
+.contenedor{
+	width: 100%;
+}
+
+.cabeza{
+	text-align: center;
+	background-color: #129cf4;
+}
+
+.nav{ background-color: #0081d3;
+}
